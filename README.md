@@ -8,7 +8,9 @@ This section introduces to the features of this web project using GIT README.MD 
 
 ## Purpose
 
+The purpose of this section is to define and describe the purpose of this project.
 
 ## Deployment
 
+This section describes the process to deploy this web application
 ## How to contribute ?
