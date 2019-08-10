@@ -1,0 +1,2 @@
+This is a sample file that is added from the git hub console. Howeer, when we run a GIT PULL ORIGIN MASTER from command prompt,
+I am expecting a difference between the Remote Origin master and local repository origin master.
