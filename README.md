@@ -14,3 +14,7 @@ The purpose of this section is to define and describe the purpose of this projec
 
 This section describes the process to deploy this web application
 ## How to contribute ?
+
+## Copyright
+
+This is a copyright notice for test.
