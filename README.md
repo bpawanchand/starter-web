@@ -15,6 +15,8 @@ The purpose of this section is to define and describe the purpose of this projec
 This section describes the process to deploy this web application
 ## How to contribute ?
 
+ Please fork this repository and then issue pull reuquests for review.
+
 ## Copyright
 
 This is a copyright notice for test.
