@@ -9,7 +9,7 @@ Pavan - bpawanchand- bpchand42
 # THANKS
 
     <name>
-Thaks to all the training provided byt git course please give a review
+Thaks to all the training provided byt git course please give a review. PLase provide a review if you liek this course.
 # TECHNOLOGY COLOPHON
     
     HTML5, CSS3
